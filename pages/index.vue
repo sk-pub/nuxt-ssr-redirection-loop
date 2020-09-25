@@ -5,6 +5,7 @@
       <h1 class="title">
         nuxt-ssr-redirection-loop
       </h1>
+      <h2>See <a href="https://github.com/nuxt/nuxt.js/issues/8116" target="_blank">https://github.com/nuxt/nuxt.js/issues/8116</a></h2>
       <div class="links">
         <a
           href="/redirection/no-loop"

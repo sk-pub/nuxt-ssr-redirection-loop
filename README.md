@@ -1,4 +1,5 @@
 # nuxt-ssr-redirection-loop
+Demo to reproduce the Nuxt redirection loop bug. See https://github.com/nuxt/nuxt.js/issues/8116.
 
 ## Build Setup
 
